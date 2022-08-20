@@ -1,0 +1,15 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andres Felipe Silva Moreno <and_fel_sil1998@hotmail.com>",
+  "license": "MIT`",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
